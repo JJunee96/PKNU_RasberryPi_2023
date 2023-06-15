@@ -22,7 +22,7 @@
 - 라즈베리파이 학습
    - 통신 설정
       - AnyDesk 설치
-   - 리눅스 일반
+   - 리눅스 일
    - 
       - MySQL DB
       - WebServer
